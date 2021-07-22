@@ -23,23 +23,33 @@ Ending summary
 ### The analysis of the change in School District data shows:
 
 - District Summary changes
+![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/district_summary_original.PNG)
+![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/district_summary_updated.PNG)
 - School Summary changes
+![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/school_summary_original.PNG)
+![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/school_summary_updated.PNG)
 - Thomas High School relative to other schools
+
 - Ninth-grade score replacement impact on grades
+  
   - Math and reading scores by grade
+  ![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/math_scores_by_grade_original.PNG)
+  ![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/math_scores_by_grade_updated.PNG)
+  ![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/reading_scores_by_grade_original.PNG)
+  ![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/reading_scores_by_grade_updated.PNG)
   - Scores by school spending
+  ![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/scores_by_school_spending_original.PNG)
+  ![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/scores_by_school_spending_updated.PNG)
   - Scores by school size
+  ![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/scores_by_school_size_original.PNG)
+  ![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/scores_by_school_size_update.PNG)
   - Scores by school type    
+  ![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/scores_by_school_type_original.PNG)
+  ![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/scores_by_school_type_update.PNG)
 
 
 ## School District Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-
-
-
-
-
-
 
 
 
