@@ -19,10 +19,9 @@ Ending summary
 
 
 
-## [School District Analysis](Analysis/election_analysis.txt)
-### The analysis of the change in School District data shows:
+## Analysis of change in School District data
 
-- District Summary changes
+### District Summary changes
 ![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/district_summary_original.PNG)
 ![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/district_summary_updated.PNG)
 - School Summary changes
@@ -31,21 +30,28 @@ Ending summary
 - Thomas High School relative to other schools
 
 - Ninth-grade score replacement impact on grades
+
+### Math and reading scores by grade
+
+[math scores by grade original](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/math_scores_by_grade_original.PNG)
+[math scores by grade updated](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/math_scores_by_grade_updated.PNG)
+[reading scores by grade original](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/reading_scores_by_grade_original.PNG)
+[reading scores by grade updated](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/reading_scores_by_grade_updated.PNG)
   
-  - Math and reading scores by grade
-  ![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/math_scores_by_grade_original.PNG)
-  ![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/math_scores_by_grade_updated.PNG)
-  ![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/reading_scores_by_grade_original.PNG)
-  ![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/reading_scores_by_grade_updated.PNG)
-  - Scores by school spending
-  ![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/scores_by_school_spending_original.PNG)
-  ![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/scores_by_school_spending_updated.PNG)
-  - Scores by school size
-  ![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/scores_by_school_size_original.PNG)
-  ![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/scores_by_school_size_update.PNG)
-  - Scores by school type    
-  ![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/scores_by_school_type_original.PNG)
-  ![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/scores_by_school_type_update.PNG)
+### Scores by school spending
+ 
+[scores by school spending original](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/scores_by_school_spending_original.PNG)
+[scores by school spending updated](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/scores_by_school_spending_updated.PNG)
+ 
+### Scores by school size
+
+[scores by school size original](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/scores_by_school_size_original.PNG)
+[scores by school size updated](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/scores_by_school_size_update.PNG)
+ 
+### Scores by school type
+
+[scores by school type original](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/scores_by_school_type_original.PNG)
+[scores by school type updated](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/scores_by_school_type_update.PNG)
 
 
 ## School District Summary
