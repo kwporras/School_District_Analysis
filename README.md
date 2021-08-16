@@ -44,10 +44,12 @@ Maria the chief data scientist has requested help analyzing a variety of informa
 ![scores by school type updated](https://github.com/kwporras/School_District_Analysis/blob/68c51afeb1d5df0000a3ed27d8549da420f93453/Resources/scores_by_school_type_updated.PNG)
 
 ## School District Summary
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-
-
-
+Changes in Thomas High Schools results after replacing the data with NaN values:
+- Percentage passing decreased from 1st place to 3rd in reading
+- Percentage passing decreased from 7th place to 8th in math
+- Average in reading increase from 83.848930 to 83.896082 
+- Average in math decrease from 83.418349 to 83.350937
+- Thomas High School still stays in 2nd in terms of Overall Passing. 
 
 #### Resources
 - Data Source: clean_students_complete.csv, missing_grades.csv, schools_complete.csv, students_complete.csv
