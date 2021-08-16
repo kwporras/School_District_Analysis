@@ -3,8 +3,7 @@
 
 ## Overview of school district analysis
 
-Maria the chief data scinetist has requested help analyzing a variety of information sources to provide insight on school and district levels. Specifially, we are to prepared test data for analysis, reporting ,insights and presentation to provide insights about performance trends and patterns. Once we have gather all this information as provided trends about the various school distrcits. Upon our standardization of the test scores and presentation of school district data we discovered evidence of academic dishonesty. After removing the Thomas High Schools ninth grade reading and math grades, we provide Maria with a updated school district analsis to show the overall affects in the analysis. 
-The hope is that this new cleaned data can proved the school board and superintendent with support when making school budgets and priorities.
+Maria the chief data scientist has requested help analyzing a variety of information sources to provide insight on school and district levels. Specifically, we are to prepared test data for analysis, reporting, insights and presentation to provide insights about performance trends and patterns. Once we have gathered all this information as provided trends about the various school districts. Upon our standardization of the test scores and presentation of school district data we discovered evidence of academic dishonesty. After removing the Thomas High Schools ninth grade reading and math grades, we provide Maria with an updated school district analysis to show the overall affects in the analysis. The hope is that this new cleaned data can proved the school board and superintendent with support when making school budgets and priorities.
 
 
 ## Analysis of change in School District data
