@@ -10,35 +10,38 @@ Maria the chief data scientist has requested help analyzing a variety of informa
 
 ### 1) District Summary changes (Before = Top, After = Bottom)
 
-![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/district_summary_original.PNG)
-![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/district_summary_updated.PNG)
+![alt text](https://github.com/kwporras/School_District_Analysis/blob/68c51afeb1d5df0000a3ed27d8549da420f93453/Resources/district_summary_original.PNG)
+![alt text](https://github.com/kwporras/School_District_Analysis/blob/68c51afeb1d5df0000a3ed27d8549da420f93453/Resources/district_summary_updated.PNG)
+
 ### 2) School Summary changes (Before = Top, After = Bottom)
-![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/school_summary_original.PNG)
-![alt text](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/school_summary_updated.PNG)
-### 3) Thomas High School relative to other schools
+![alt text](https://github.com/kwporras/School_District_Analysis/blob/68c51afeb1d5df0000a3ed27d8549da420f93453/Resources/school_summary_original.PNG)
+![alt text](https://github.com/kwporras/School_District_Analysis/blob/68c51afeb1d5df0000a3ed27d8549da420f93453/Resources/school_summary_updated.PNG)
+
+### 3) Thomas High School relative to other schools changes (Before = Top, After = Bottom)
+![alt text](https://github.com/kwporras/School_District_Analysis/blob/68c51afeb1d5df0000a3ed27d8549da420f93453/Resources/thomas_high_school_performance_original.PNG)
+![alt text](https://github.com/kwporras/School_District_Analysis/blob/68c51afeb1d5df0000a3ed27d8549da420f93453/Resources/thomas_high_school_performance_updated.PNG)
 
 ### 4) Ninth-grade score replacement impact on grades
 
 - ##### Math Score Changes by Grade (Before = Left, After = Right)
-![math scores by grade original](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/math_scores_by_grade_original.PNG)
-![math scores by grade updated](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/math_scores_by_grade_updated.PNG)
+![math scores by grade original](https://github.com/kwporras/School_District_Analysis/blob/68c51afeb1d5df0000a3ed27d8549da420f93453/Resources/math_scores_by_grade_original.PNG)
+![math scores by grade updated](https://github.com/kwporras/School_District_Analysis/blob/68c51afeb1d5df0000a3ed27d8549da420f93453/Resources/math_scores_by_grade_updated.PNG)
 
 - ##### Reading Score Changes by Grade (Before = Left, After = Right)
-![reading scores by grade original](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/reading_scores_by_grade_original.PNG)
-![reading scores by grade updated](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/reading_scores_by_grade_updated.PNG)
+![reading scores by grade original](https://github.com/kwporras/School_District_Analysis/blob/68c51afeb1d5df0000a3ed27d8549da420f93453/Resources/reading_scores_by_grade_original.PNG)
+![reading scores by grade updated](https://github.com/kwporras/School_District_Analysis/blob/68c51afeb1d5df0000a3ed27d8549da420f93453/Resources/reading_scores_by_grade_updated.PNG)
   
 - ##### Score Changes by School Spending (Before = Top, After = Bottom)
-![scores by school spending original](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/scores_by_school_spending_original.PNG)
-![scores by school spending updated](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/scores_by_school_spending_updated.PNG)
+![scores by school spending original](https://github.com/kwporras/School_District_Analysis/blob/68c51afeb1d5df0000a3ed27d8549da420f93453/Resources/scores_by_school_spending_original.PNG)
+![scores by school spending updated](https://github.com/kwporras/School_District_Analysis/blob/68c51afeb1d5df0000a3ed27d8549da420f93453/Resources/scores_by_school_spending_updated.PNG)
  
 - ##### Score Changes by School Size (Before = Top, After = Bottom)
-![scores by school size original](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/scores_by_school_size_original.PNG)
-![scores by school size updated](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/scores_by_school_size_update.PNG)
+![scores by school size original](https://github.com/kwporras/School_District_Analysis/blob/68c51afeb1d5df0000a3ed27d8549da420f93453/Resources/scores_by_school_size_original.PNG)
+![scores by school size updated](https://github.com/kwporras/School_District_Analysis/blob/68c51afeb1d5df0000a3ed27d8549da420f93453/Resources/scores_by_school_size_updated.PNG)
  
 - ##### Score Changes by School Type (Before = Top, After = Bottom)
-![scores by school type original](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/scores_by_school_type_original.PNG)
-![scores by school type updated](https://github.com/kwporras/Module_4_Challenge/blob/6741076209a62d8e73116299a4ed629ad8e1aaca/Challenge%204/Resources/scores_by_school_type_update.PNG)
-
+![scores by school type original](https://github.com/kwporras/School_District_Analysis/blob/68c51afeb1d5df0000a3ed27d8549da420f93453/Resources/scores_by_school_type_original.PNG)
+![scores by school type updated](https://github.com/kwporras/School_District_Analysis/blob/68c51afeb1d5df0000a3ed27d8549da420f93453/Resources/scores_by_school_type_updated.PNG)
 
 ## School District Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
